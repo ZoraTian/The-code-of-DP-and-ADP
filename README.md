@@ -1,5 +1,6 @@
 # The-code-of-DP-and-ADP
-I set a environment of the user side battery participate the daily scheduling, Whitch can reduce the cost of the users. The detailed information is shown below:
+I set a environment of the user side battery participate the daily scheduling, Whitch can reduce the cost of the users. The detailed information is shown below:  
+
 0.3 <= SOC <= 0.7,   -1 <= Pess <= 1,  initial SOC equals 0.5,  the scheduling horizon T = 6
 Every hour demand of user set to 0.3, and the User can buy the power from the grid and use the battery.
 the objective is to minimize the cost
